@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UpdateInfoEventArgs>
+      
+    <ChangeLogUrl>https://viettungvu.github.io/moodle/changelogs.md</ChangeLogUrl>
+      
+    <DownloadURL/>
+      
+    <CurrentVersion>1.0.0.0</CurrentVersion>
+      
+    <IsUpdateAvailable>false</IsUpdateAvailable>
+      
+    <Mandatory>
+            
+        <Value>false</Value>
+            
+        <UpdateMode>1</UpdateMode>
+          
+    </Mandatory>
+      
+    <ExecutablePath/>
+    
+</UpdateInfoEventArgs>
